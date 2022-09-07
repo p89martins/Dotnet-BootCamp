@@ -1,0 +1,15 @@
+/Users/bi005483/BootCamp Dotnet/Dotnet-BootCamp/bin/Debug/net6.0/Dotnet-BootCamp
+/Users/bi005483/BootCamp Dotnet/Dotnet-BootCamp/bin/Debug/net6.0/Dotnet-BootCamp.deps.json
+/Users/bi005483/BootCamp Dotnet/Dotnet-BootCamp/bin/Debug/net6.0/Dotnet-BootCamp.runtimeconfig.json
+/Users/bi005483/BootCamp Dotnet/Dotnet-BootCamp/bin/Debug/net6.0/Dotnet-BootCamp.dll
+/Users/bi005483/BootCamp Dotnet/Dotnet-BootCamp/bin/Debug/net6.0/Dotnet-BootCamp.pdb
+/Users/bi005483/BootCamp Dotnet/Dotnet-BootCamp/obj/Debug/net6.0/Dotnet-BootCamp.csproj.AssemblyReference.cache
+/Users/bi005483/BootCamp Dotnet/Dotnet-BootCamp/obj/Debug/net6.0/Dotnet-BootCamp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bi005483/BootCamp Dotnet/Dotnet-BootCamp/obj/Debug/net6.0/Dotnet-BootCamp.AssemblyInfoInputs.cache
+/Users/bi005483/BootCamp Dotnet/Dotnet-BootCamp/obj/Debug/net6.0/Dotnet-BootCamp.AssemblyInfo.cs
+/Users/bi005483/BootCamp Dotnet/Dotnet-BootCamp/obj/Debug/net6.0/Dotnet-BootCamp.csproj.CoreCompileInputs.cache
+/Users/bi005483/BootCamp Dotnet/Dotnet-BootCamp/obj/Debug/net6.0/Dotnet-BootCamp.dll
+/Users/bi005483/BootCamp Dotnet/Dotnet-BootCamp/obj/Debug/net6.0/refint/Dotnet-BootCamp.dll
+/Users/bi005483/BootCamp Dotnet/Dotnet-BootCamp/obj/Debug/net6.0/Dotnet-BootCamp.pdb
+/Users/bi005483/BootCamp Dotnet/Dotnet-BootCamp/obj/Debug/net6.0/Dotnet-BootCamp.genruntimeconfig.cache
+/Users/bi005483/BootCamp Dotnet/Dotnet-BootCamp/obj/Debug/net6.0/ref/Dotnet-BootCamp.dll
