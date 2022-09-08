@@ -1,6 +1,28 @@
 ﻿using Dotnet_BootCamp.Models;
 
 
+int quantidadeEmEstoque =10;
+int quantidadeDeCompra = 4;
+bool possivelVenda = quantidadeEmEstoque >= quantidadeDeCompra;
+
+
+Console.WriteLine($"Quantidade em estoque: {quantidadeEmEstoque}");
+Console.WriteLine($"Quantidade para compra: {quantidadeDeCompra}");
+Console.WriteLine($"É possivel realizar a venda? {possivelVenda}");
+
+
+
+if(possivelVenda)
+{
+    Console.WriteLine("Venda realizada.");
+}
+else
+{
+    Console.Write("Desculpe. Não temos a quantidado em estoque.");
+}
+
+
+/*
 // Partes de um objeto 
 Pessoa pessoa1 = new Pessoa();
 
@@ -46,3 +68,4 @@ int e = 5;
 double f = e;
 Console.WriteLine(b); //Pois um iNT cabe dentro de um DOUBLE,ao contrario teria q usar o convert.
 
+*/
