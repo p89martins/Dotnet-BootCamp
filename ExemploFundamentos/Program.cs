@@ -1,4 +1,5 @@
-﻿using Dotnet_BootCamp.Models;
+﻿using System;
+using ExemplosFundamentos.Common.Models;
 
 
 int quantidadeEmEstoque =10;

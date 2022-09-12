@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Dotnet_BootCamp.Models
+namespace ExemplosFundamentos.Common.Models
 {
     public class Pessoa //Azul sao para palvavras reservadas da linguagem
     {
