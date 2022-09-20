@@ -1,0 +1,12 @@
+/Users/bi005483/BootCamp Dotnet/Dotnet-BootCamp/ExemplosFundamentos.Common/bin/Debug/net6.0/ExemplosFundamentos.Common.deps.json
+/Users/bi005483/BootCamp Dotnet/Dotnet-BootCamp/ExemplosFundamentos.Common/bin/Debug/net6.0/ExemplosFundamentos.Common.dll
+/Users/bi005483/BootCamp Dotnet/Dotnet-BootCamp/ExemplosFundamentos.Common/bin/Debug/net6.0/ExemplosFundamentos.Common.pdb
+/Users/bi005483/BootCamp Dotnet/Dotnet-BootCamp/ExemplosFundamentos.Common/obj/Debug/net6.0/ExemplosFundamentos.Common.csproj.AssemblyReference.cache
+/Users/bi005483/BootCamp Dotnet/Dotnet-BootCamp/ExemplosFundamentos.Common/obj/Debug/net6.0/ExemplosFundamentos.Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bi005483/BootCamp Dotnet/Dotnet-BootCamp/ExemplosFundamentos.Common/obj/Debug/net6.0/ExemplosFundamentos.Common.AssemblyInfoInputs.cache
+/Users/bi005483/BootCamp Dotnet/Dotnet-BootCamp/ExemplosFundamentos.Common/obj/Debug/net6.0/ExemplosFundamentos.Common.AssemblyInfo.cs
+/Users/bi005483/BootCamp Dotnet/Dotnet-BootCamp/ExemplosFundamentos.Common/obj/Debug/net6.0/ExemplosFundamentos.Common.csproj.CoreCompileInputs.cache
+/Users/bi005483/BootCamp Dotnet/Dotnet-BootCamp/ExemplosFundamentos.Common/obj/Debug/net6.0/ExemplosFundamentos.Common.dll
+/Users/bi005483/BootCamp Dotnet/Dotnet-BootCamp/ExemplosFundamentos.Common/obj/Debug/net6.0/refint/ExemplosFundamentos.Common.dll
+/Users/bi005483/BootCamp Dotnet/Dotnet-BootCamp/ExemplosFundamentos.Common/obj/Debug/net6.0/ExemplosFundamentos.Common.pdb
+/Users/bi005483/BootCamp Dotnet/Dotnet-BootCamp/ExemplosFundamentos.Common/obj/Debug/net6.0/ref/ExemplosFundamentos.Common.dll

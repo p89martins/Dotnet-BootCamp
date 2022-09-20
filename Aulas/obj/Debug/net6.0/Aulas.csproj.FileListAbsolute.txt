@@ -1,0 +1,15 @@
+/Users/bi005483/BootCamp Dotnet/Dotnet-BootCamp/Aulas/bin/Debug/net6.0/Aulas
+/Users/bi005483/BootCamp Dotnet/Dotnet-BootCamp/Aulas/bin/Debug/net6.0/Aulas.deps.json
+/Users/bi005483/BootCamp Dotnet/Dotnet-BootCamp/Aulas/bin/Debug/net6.0/Aulas.runtimeconfig.json
+/Users/bi005483/BootCamp Dotnet/Dotnet-BootCamp/Aulas/bin/Debug/net6.0/Aulas.dll
+/Users/bi005483/BootCamp Dotnet/Dotnet-BootCamp/Aulas/bin/Debug/net6.0/Aulas.pdb
+/Users/bi005483/BootCamp Dotnet/Dotnet-BootCamp/Aulas/obj/Debug/net6.0/Aulas.csproj.AssemblyReference.cache
+/Users/bi005483/BootCamp Dotnet/Dotnet-BootCamp/Aulas/obj/Debug/net6.0/Aulas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bi005483/BootCamp Dotnet/Dotnet-BootCamp/Aulas/obj/Debug/net6.0/Aulas.AssemblyInfoInputs.cache
+/Users/bi005483/BootCamp Dotnet/Dotnet-BootCamp/Aulas/obj/Debug/net6.0/Aulas.AssemblyInfo.cs
+/Users/bi005483/BootCamp Dotnet/Dotnet-BootCamp/Aulas/obj/Debug/net6.0/Aulas.csproj.CoreCompileInputs.cache
+/Users/bi005483/BootCamp Dotnet/Dotnet-BootCamp/Aulas/obj/Debug/net6.0/Aulas.dll
+/Users/bi005483/BootCamp Dotnet/Dotnet-BootCamp/Aulas/obj/Debug/net6.0/refint/Aulas.dll
+/Users/bi005483/BootCamp Dotnet/Dotnet-BootCamp/Aulas/obj/Debug/net6.0/Aulas.pdb
+/Users/bi005483/BootCamp Dotnet/Dotnet-BootCamp/Aulas/obj/Debug/net6.0/Aulas.genruntimeconfig.cache
+/Users/bi005483/BootCamp Dotnet/Dotnet-BootCamp/Aulas/obj/Debug/net6.0/ref/Aulas.dll

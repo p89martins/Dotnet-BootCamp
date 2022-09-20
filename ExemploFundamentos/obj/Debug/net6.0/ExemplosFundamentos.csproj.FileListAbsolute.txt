@@ -3,3 +3,13 @@
 /Users/bi005483/BootCamp Dotnet/Dotnet-BootCamp/ExemploFundamentos/obj/Debug/net6.0/ExemplosFundamentos.AssemblyInfoInputs.cache
 /Users/bi005483/BootCamp Dotnet/Dotnet-BootCamp/ExemploFundamentos/obj/Debug/net6.0/ExemplosFundamentos.AssemblyInfo.cs
 /Users/bi005483/BootCamp Dotnet/Dotnet-BootCamp/ExemploFundamentos/obj/Debug/net6.0/ExemplosFundamentos.csproj.CoreCompileInputs.cache
+/Users/bi005483/BootCamp Dotnet/Dotnet-BootCamp/ExemploFundamentos/bin/Debug/net6.0/ExemplosFundamentos
+/Users/bi005483/BootCamp Dotnet/Dotnet-BootCamp/ExemploFundamentos/bin/Debug/net6.0/ExemplosFundamentos.deps.json
+/Users/bi005483/BootCamp Dotnet/Dotnet-BootCamp/ExemploFundamentos/bin/Debug/net6.0/ExemplosFundamentos.runtimeconfig.json
+/Users/bi005483/BootCamp Dotnet/Dotnet-BootCamp/ExemploFundamentos/bin/Debug/net6.0/ExemplosFundamentos.dll
+/Users/bi005483/BootCamp Dotnet/Dotnet-BootCamp/ExemploFundamentos/bin/Debug/net6.0/ExemplosFundamentos.pdb
+/Users/bi005483/BootCamp Dotnet/Dotnet-BootCamp/ExemploFundamentos/obj/Debug/net6.0/ExemplosFundamentos.dll
+/Users/bi005483/BootCamp Dotnet/Dotnet-BootCamp/ExemploFundamentos/obj/Debug/net6.0/refint/ExemplosFundamentos.dll
+/Users/bi005483/BootCamp Dotnet/Dotnet-BootCamp/ExemploFundamentos/obj/Debug/net6.0/ExemplosFundamentos.pdb
+/Users/bi005483/BootCamp Dotnet/Dotnet-BootCamp/ExemploFundamentos/obj/Debug/net6.0/ExemplosFundamentos.genruntimeconfig.cache
+/Users/bi005483/BootCamp Dotnet/Dotnet-BootCamp/ExemploFundamentos/obj/Debug/net6.0/ref/ExemplosFundamentos.dll
