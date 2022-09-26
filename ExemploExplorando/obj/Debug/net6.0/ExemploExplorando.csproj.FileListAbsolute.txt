@@ -1,0 +1,15 @@
+/Users/bi005483/BootCamp Dotnet/Dotnet-BootCamp/ExemploExplorando/bin/Debug/net6.0/ExemploExplorando
+/Users/bi005483/BootCamp Dotnet/Dotnet-BootCamp/ExemploExplorando/bin/Debug/net6.0/ExemploExplorando.deps.json
+/Users/bi005483/BootCamp Dotnet/Dotnet-BootCamp/ExemploExplorando/bin/Debug/net6.0/ExemploExplorando.runtimeconfig.json
+/Users/bi005483/BootCamp Dotnet/Dotnet-BootCamp/ExemploExplorando/bin/Debug/net6.0/ExemploExplorando.dll
+/Users/bi005483/BootCamp Dotnet/Dotnet-BootCamp/ExemploExplorando/bin/Debug/net6.0/ExemploExplorando.pdb
+/Users/bi005483/BootCamp Dotnet/Dotnet-BootCamp/ExemploExplorando/obj/Debug/net6.0/ExemploExplorando.csproj.AssemblyReference.cache
+/Users/bi005483/BootCamp Dotnet/Dotnet-BootCamp/ExemploExplorando/obj/Debug/net6.0/ExemploExplorando.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bi005483/BootCamp Dotnet/Dotnet-BootCamp/ExemploExplorando/obj/Debug/net6.0/ExemploExplorando.AssemblyInfoInputs.cache
+/Users/bi005483/BootCamp Dotnet/Dotnet-BootCamp/ExemploExplorando/obj/Debug/net6.0/ExemploExplorando.AssemblyInfo.cs
+/Users/bi005483/BootCamp Dotnet/Dotnet-BootCamp/ExemploExplorando/obj/Debug/net6.0/ExemploExplorando.csproj.CoreCompileInputs.cache
+/Users/bi005483/BootCamp Dotnet/Dotnet-BootCamp/ExemploExplorando/obj/Debug/net6.0/ExemploExplorando.dll
+/Users/bi005483/BootCamp Dotnet/Dotnet-BootCamp/ExemploExplorando/obj/Debug/net6.0/refint/ExemploExplorando.dll
+/Users/bi005483/BootCamp Dotnet/Dotnet-BootCamp/ExemploExplorando/obj/Debug/net6.0/ExemploExplorando.pdb
+/Users/bi005483/BootCamp Dotnet/Dotnet-BootCamp/ExemploExplorando/obj/Debug/net6.0/ExemploExplorando.genruntimeconfig.cache
+/Users/bi005483/BootCamp Dotnet/Dotnet-BootCamp/ExemploExplorando/obj/Debug/net6.0/ref/ExemploExplorando.dll
