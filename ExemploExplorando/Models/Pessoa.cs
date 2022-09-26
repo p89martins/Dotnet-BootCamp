@@ -7,6 +7,17 @@ namespace ExemploExplorando.Models
 {
     public class Pessoa
     {
+        public Pessoa()
+        {
+
+        }
+        public Pessoa(string nome, string sobreNome)
+        //Construtor tem o mesmo nome da classe e vai estar sempre no inicio do bloco da classe
+        //Apenas publica e nome da classe
+        {
+            Nome = nome;
+            SobreNome = sobreNome;
+        }
 
         private string _nome; //protegendo o campo para que apenas ocorra modificao dentro da classe e será ele quem irá armazenar Nome
         private int _idade; // Essa proteçao se chama ENCAPSULAMENTO

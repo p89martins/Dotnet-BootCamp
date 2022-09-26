@@ -1,13 +1,19 @@
 ﻿using ExemploExplorando.Models;
 
 
-Pessoa p1 = new Pessoa();
-p1.Nome = "Leonardo";
-p1.SobreNome = "Souza";
+Pessoa p1 = new Pessoa(nome: "Leonardo",sobrenome: "Souza");
+Pessoa p2 = new Pessoa(nome: "Eduardo", sobrenome: "Queiros");
 
-Pessoa p2 = new Pessoa();
-p2.Nome = "Eduardo";
-p2.SobreNome = "Queiros";
+//Utiliznado o construtor Pessoa pode ser abreviar a forma de declarar os parametros 
+
+
+// Pessoa p1 = new Pessoa();
+// p1.Nome = "Leonardo";
+// p1.SobreNome = "Souza";
+
+// Pessoa p2 = new Pessoa();
+// p2.Nome = "Eduardo";
+// p2.SobreNome = "Queiros";
 
 
 
